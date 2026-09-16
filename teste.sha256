@@ -1,0 +1,3 @@
+hash SHA256 do arquivo teste.txt:
+2c 6a 1d 97 97 4a 51 c6 fb a7 2d 84 77 3c 79 02 ac 83 85 25 b7 31 a1 f2 37 69 bd 0b 46 88 1c 82
+CertUtil: -hashfile : comando concluído com êxito.
